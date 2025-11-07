@@ -1,0 +1,519 @@
+ID,Area,City,Restaurant,Price,Avg ratings,Total ratings,Food type,Address,Delivery time
+211,Koramangala,Bangalore,Tandoor Hut,300,4.4,100,"Biryani,Chinese,North Indian,South Indian",5Th Block,59
+221,Koramangala,Bangalore,Tunday Kababi,300,4.1,100,"Mughlai,Lucknowi",5Th Block,56
+246,Jogupalya,Bangalore,Kim Lee,650,4.4,100,Chinese,Double Road,50
+248,Indiranagar,Bangalore,New Punjabi Hotel,250,3.9,500,"North Indian,Punjabi,Tandoor,Chinese",80 Feet Road,57
+249,Indiranagar,Bangalore,Nh8,350,4,50,"Rajasthani,Gujarati,North Indian,Snacks,Desserts,Beverages,Thalis,Chaat",80 Feet Road,63
+254,Indiranagar,Bangalore,Treat,800,4.5,100,"Mughlai,North Indian",100 Feet Road,56
+258,Indiranagar,Bangalore,Chinita Real Mexican Food,1000,4.5,500,"Mexican,Beverages,Salads",Double Road,53
+263,Koramangala,Bangalore,Cupcake Noggins - Cakespastries And Desserts,150,4.3,100,"Desserts,British,Bakery,Pizzas,Snacks",4Th Block,57
+267,Domlur,Bangalore,Tea Brew,350,4.1,100,"American,Italian,Beverages,Continental,Chinese,Pastas,Pizzas,Fast Food",Double Road,57
+308,Koramangala,Bangalore,Bangaliana,300,4,500,Bengali,7Th Block,57
+435,Koramangala,Bangalore,Bamey'S Restro Cafe,400,4.4,100,"Chinese,Thai,Nepalese",5Th Block,56
+446,Cooke Town,Bangalore,Altaf'S Chillies Restaurants,250,4.3,500,"North Indian,Chinese",Cooke Town,55
+453,Pulikeshi Nagar,Bangalore,Chichabas Taj,532,4.2,100,"Mughlai,North Indian,Biryani",Mm Road,54
+464,Sivanchetti Gardens,Bangalore,Urban Solace,500,2.9,80,"American,Continental",Ulsoor Lake,48
+504,Kodihalli,Bangalore,Kaati Zone Rolls & Wraps,150,4.3,100,"Fast Food,Beverages,Bengali,Biryani,Indian,North Indian,Snacks,Street Food",Domlur Layout,59
+604,Koramangala,Bangalore,Aalishan Restaurant & Caterer,290,4.3,100,"Mughlai,North Indian",7Th Block,52
+608,Domlur,Bangalore,Kerala Pavilion,300,4.1,100,"Kerala,Seafood",Domlur Layout,55
+621,Indiranagar,Bangalore,Kitchen Of Joy,250,4.4,100,"Bengali,Fast Food,Chinese",Domlur,55
+1050,Jayanagar,Bangalore,Nagarjuna Chimney,800,4.2,1000,"Seafood,Andhra,Biryani,South Indian,Combo,Desserts,Beverages",3Rd Block,48
+1299,Film Nagar,Hyderabad,So. The Sky Kitchen,800,2.9,80,"Mughlai,North Indian,Chinese,Thai,Asian",Near Apollo Health City Gate,90
+1304,Indiranagar,Bangalore,Esplanade,1200,4.3,100,"Mughlai,Bengali",I Indirangar,54
+1457,Banashankari,Bangalore,Hotel New Karavali,250,3.8,100,"North Indian,Chinese,South Indian",Bsk 1St Stage,53
+1547,Masab Tank,Hyderabad,Dine Hill,400,4.1,500,"Arabian,Biryani,North Indian,Chinese",Ahmed Nagar,49
+1590,Banjara Hills,Hyderabad,Sarvi Restaurant,400,4.1,5000,"Biryani,Tandoor,Chinese,Indian,Desserts,Kebabs,Mughlai",Road 11,56
+1593,Banjara Hills,Hyderabad,Sarvi Bakery,250,4.1,100,"Desserts,Fast Food,Bakery",Opposite Care Hospital Road 11 Banjara Hills,58
+1609,Andheri East,Mumbai,Kung Fu Panda,600,4.3,100,Chinese  Thai  Asian,Marol,58
+1617,Powai,Mumbai,Kosho,300,4.2,100,"Mughlai,North Indian,Chinese,Seafood,Italian",Chandivali,56
+1844,Punjagutta,Hyderabad,Chinese Pavilion,850,4.3,500,"Chinese,Seafood",Nagarjuna Circle,64
+1848,Banjara Hills,Hyderabad,Chef Inam'S Steak House,1200,4.2,100,"Steakhouse,American",Sri Ram Nagar Colony Banjara Hills,69
+1874,Indiranagar,Bangalore,Mamagoto,900,4.2,100,"Chinese,Asian,Pan-Asian,Thai,Oriental",Mamagoto,59
+1884,Powai,Mumbai,Hakka Express,300,4,100,"Chinese,Asian,Thai",Narayan Plaza,48
+2008,Indiranagar,Bangalore,The Brekkie Shop - All Day Menu,200,4.3,500,"British,Italian,Indian,Chinese,South Indian,North Indian,Desserts",1St Stage,57
+2042,Aundh,Pune,Juice Destination,200,4.2,500,"Thalis,North Indian,Punjabi,Beverages",Iti Road Aundh,60
+2047,Aundh,Pune,Hyderabadi Spice,400,4.2,1000,"Biryani,Mughlai,North Indian,Chinese",Parihar Chowk,58
+2102,Aundh,Pune,Cafe Peterdonuts,400,4.1,50,"Continental,Desserts",Gaikwad Nagar,71
+2250,Baner,Pune,Karolbaug,750,4.1,50,"Mughlai,North Indian,Chinese,Biryani",Sakal Nagar,72
+2312,Powai Area,Mumbai,The Punjabi'S Kitchen,500,4.4,500,North Indian,Guru Hargobindji Marg  Andheri East,65
+2344,Ramgopalpet,Hyderabad,Aangan - Yatri Nivas,500,4.1,100,North Indian  South Indian,S P Road,66
+2348,Kalasiguda,Hyderabad,Bluefox,800,4.2,1000,Biryani  North Indian  Chinese  Tandoor,Sd Road,68
+2516,Aundh,Pune,Taaareef,1100,4.4,100,"Mughlai,North Indian,Seafood,Biryani",Iti Road,67
+2770,Kalasiguda,Hyderabad,Flavours Of Taj Mahal Hotel,300,4.2,1000,North Indian  Chinese  Desserts  Continental  South Indian,Sd Road,57
+2776,Adarsh Nagar,Hyderabad,Ohri'S Eatmor,600,4.2,500,"Ice Cream,Beverages,Desserts,Chaat,Italian",New Mla Quarters,37
+2777,Adarsh Nagar,Hyderabad,Ohri'S Ming'S Court,500,4,1000,Chinese,New Mla Quarters,39
+2795,Himayatnagar,Hyderabad,Minerva Coffee Shop,500,4.3,1000,"South Indian,North Indian,Chinese",Himayath Nagar Road,30
+2796,Himayatnagar,Hyderabad,Bluefox,800,4.1,1000,"Biryani,North Indian,Chinese,Tandoor",Himayath Nagar Road,36
+2811,Ashok Nagar,Bangalore,Art Of Delight,250,4.6,100,"Ice Cream,Desserts,Beverages",Residency Road,34
+2820,Commercial Street,Bangalore,Khan Saheb Grills And Rolls,300,4.3,50,"Tandoor,Mughlai,North Indian,Kebabs",Kamaraj Road,39
+2824,Richmond Town,Bangalore,Fanoos,300,4.2,500,"Biryani,Tandoor,Kebabs,Barbecue,Fast Food",Hosur Road,33
+2827,Richmond Town,Bangalore,In Wok,500,4.3,100,Chinese,Richmond,44
+2832,Ashok Nagar,Bangalore,Lakeview Milkbar,450,4.1,100,"Desserts,Ice Cream,Bakery,Fast Food",Mg Road,31
+2839,Ashok Nagar,Bangalore,C Sharp Kitchen,300,2.9,80,"Chinese,Continental,Fast Food",Church Street,33
+2840,Ashok Nagar,Bangalore,Roomali,1000,4.4,100,"North Indian,Indian",Church Street,35
+2843,Ashok Nagar,Bangalore,Tadka Singh,300,4.2,100,"Punjabi,North Indian",Church Street,38
+2914,Ashok Nagar,Bangalore,Bheemas,550,4.3,100,Andhra,Church Street,31
+2915,Vasanth Nagar,Bangalore,Watson'S,450,2.9,80,Fast Food,1St Main Road,53
+2964,Andheri East,Mumbai,Sai Leela,500,4.2,20,"Mughlai,North Indian,Chinese,Seafood",Andheri East,63
+3007,Bhowanipore,Kolkata,Tandoori Darbar,500,4.4,100,"North Indian,Chinese,Tandoor,Biryani,Beverages,Desserts",Hazra Road,71
+3010,Ballygunge,Kolkata,Ballygunge Dhaba,500,4.3,500,"North Indian,Biryani,Chinese",Ballygunge,59
+3018,Gariahat,Kolkata,Tero Parbon,500,4.3,100,Bengali,Purna Das Road Hindustan Park,72
+3020,Ballygunge,Kolkata,Wise Owl The Coffee Shop,700,4.3,100,"Continental,American,Cafe",Purnadas Road,76
+3022,Gariahat,Kolkata,Aminia Restaurant- Golpark,500,4.3,1000,"Biryani,Mughlai,North Indian,Indian,Kebabs,Tandoor",Ballygunge Gardens,67
+3025,Gariahat,Kolkata,Bedouin - Sher E Bengal,500,2.9,80,"North Indian,Chinese,Bengali",Gariahat Road Gariahat,70
+3031,Ballygunge,Kolkata,Sharma Dhaba,300,4.2,1000,North Indian  Fast Food  Tandoor  Biryani  Kebabs  Snacks  Chinese,Ballygunge Circular Road  Ballygunge Maidan Camp  Ballygunge,54
+3063,Indiranagar,Bangalore,Kund Indian Barbeque,200,4.2,100,"Mughlai,North Indian,Biryani,Kebabs,Desserts",1St Stage,58
+3071,Bhowanipore,Kolkata,Jai Hind Dhaba,500,4.3,1000,"North Indian,Indian,Tandoor,Kebabs,Punjabi,Home Food,Chinese",Sarat Bose Road Paddapukur,60
+3074,Kalighat,Kolkata,Tamarind,1100,4.4,100,"North Indian,South Indian",Sarat Bose Road Desapriya Park,73
+3207,Pulikeshi Nagar,Bangalore,Pathaan Sir,300,4.2,100,Fast Food,Coles Road,47
+3265,Indiranagar,Bangalore,Chaipatty,200,3.9,50,"Fast Food,Beverages,Pizzas,Street Food,Snacks",Hanumanthanagar,56
+3279,Powai Area,Mumbai,5 Spice,1100,4.2,500,"Chinese,Desserts",Powai Area,53
+3324,Punjagutta,Hyderabad,Srikanya,250,4.1,1000,"Andhra,Seafood",Punjagutta Road,56
+3326,Sion,Mumbai,Cafe Vrindavan,500,4.3,100,"North Indian,Chinese,South Indian",Sion Station,42
+3329,Mumbai,Mumbai,Ramdeo,450,4,500,"North Indian,Chinese,South Indian,Fast Food",Sion Station,44
+3331,Mumbai,Mumbai,Shabari,400,3.9,100,"North Indian,South Indian,Fast Food",Sion West,48
+3332,Rajajinagar,Bangalore,The Purple Pan,400,4.1,1000,"Mughlai,North Indian,Chinese,Arabian",Dr. Rajkumar Road,56
+3350,Pulikeshi Nagar,Bangalore,Moriz Nano,500,2.9,80,"North Indian,Chinese,Biryani,Seafood",Lakeview,50
+3369,Ashok Nagar,Bangalore,Truffles,450,4.5,1000,"American,Desserts,Continental,Italian",St. Marks Road,29
+3439,Golpark,Kolkata,The Grub Club,400,4.3,1000,"Italian,Chinese,Thai",Golpark,69
+3454,Koramangala,Bangalore,Lazeez,500,4.2,500,"North Indian,Mughlai",5Th Block,55
+3531,Shivajinagar,Pune,Marrakesh,300,4,100,"Lebanese,North Indian,Afghani,Mughlai,Combo,Biryani,Kebabs,Mediterranean,Arabian,Middle Eastern,Desserts",Fc Road,46
+3549,Banjara Hills,Hyderabad,Keshav Reddy Sweets,150,4.2,500,"Sweets,Bakery,Desserts,Fast Food,Street Food,Chaat",Road No 2,65
+3813,Gariahat,Kolkata,Kimli,600,4.4,100,"Chinese,Seafood",Purnadas Road,69
+3830,Koregaon Park,Pune,Prem'S,1200,4.2,100,"North Indian,Chinese,Continental,Asian,Desserts,Beverages",Koregaon Park,53
+3835,Deccan Gymkhana,Pune,The Chocolate Room,450,2.9,80,"Desserts,Continental,Fast Food",Fc Road,39
+3855,Koregaon Park,Pune,Uncle'S Chinese,350,4.1,1000,"Chinese,Thai,Malaysian",Koregaon Park,55
+3889,Jayanagar,Bangalore,House Of Kebab'S,500,3.7,50,"North Indian,Chinese,Biryani",Rv Road,51
+3914,Karkhana,Hyderabad,Oh So Stoned,300,3.9,100,Ice Cream  Desserts,Vikrampuri Colony,68
+4051,Kothrud,Pune,Zest Cafe Bar,250,4.2,20,"Chinese,Fast Food",Ideal Chambers  Kothrud,57
+4064,Koregaon Park,Pune,Seven - Shawarma And Burgers,250,3.9,100,"Lebanese,Fast Food,Snacks,Arabian",Koregaon Park,51
+4086,Kothrud,Pune,Rushhrs,250,4.3,100,"Salads,Healthy Food",Karishma Housing Society,46
+4087,Erandwane,Pune,Aroma'S Hyderabad House - Karve Road,400,4.2,500,"Biryani,Mughlai,North Indian,Chinese",Karve Road,35
+4138,Koti,Hyderabad,Grand Hotel,300,4.1,10000,"Biryani,Tandoor,Chinese,Indian,Kebabs,Desserts",Abids Road,24
+4188,Dilsukhnagar,Hyderabad,Tipsy Topsy,250,3.7,500,Chinese  Italian  Desserts  Bakery  Fast Food,Dilsukhnagar Main Road,39
+4248,Nagole,Hyderabad,Hotel Swagath Grand - Dhanturi Group Of Hotels,300,3.9,1000,"Biryani,Chinese,South Indian,North Indian,Tandoor",Alkapuri X Roads,67
+4252,Chandrapuri Colony,Hyderabad,Hotel Sitara Grand - Dhanturi Group Of Hotels,300,3.8,1000,"Biryani,Chinese,South Indian,North Indian,Tandoor",L B Nagar,70
+4256,Kothapet,Hyderabad,Nakshatra Inn Multi Cuisine Restaurant,300,3.8,100,"Biryani,Chinese,North Indian,South Indian",Lakshmi Nagar Colony,52
+4320,Narayanguda,Hyderabad,Mehfil,300,3.9,10000,"Biryani,Tandoor,Chinese,Indian,Kebabs,Desserts",Narayanguda,25
+4338,Fc Road,Pune,The Burger Barn Cafe,300,4.1,100,"American,Fast Food",Ghole Road,46
+4429,Park Street Area,Kolkata,Sip & Sandwich,300,2.9,80,Pastas  Beverages  Fast Food,Park Street,60
+4430,Beniapukur,Kolkata,Shiraz Golden Restaurant,500,4.4,1000,"Biryani,Mughlai,North Indian,Indian,Kebabs,Tandoor",Park Street,52
+4484,Park Street Area,Kolkata,Mocambo,1500,4.4,1000,"North Indian,Biryani,Continental,Italian",Park Street,62
+4558,Bidhannagar,Kolkata,The Scoop,400,4.1,100,"North Indian,Chinese,South Indian,Fast Food",Sector 1,70
+4565,Bidhannagar,Kolkata,Kaafila,1600,3.9,50,"Mughlai,North Indian",Sector 1,71
+4587,Bidhannagar,Kolkata,Ranjan'S,200,4.2,100,"North Indian,Chinese",Sector 3,56
+4599,Bidhannagar,Kolkata,Balle Balle Dhaba,500,4.1,1000,"North Indian,Punjabi,Biryani",Sector 1,59
+4600,Bidhannagar,Kolkata,Le Coffee Creme,600,3.9,50,"Combo,Chinese,Continental,Italian,Fast Food,Mexican",Sector 1,68
+4614,Himayatnagar,Hyderabad,Crystal Restaurant,350,3.9,1000,"Biryani,North Indian,Chinese",Rtc X Roads,34
+4650,New Nallakunta,Hyderabad,Bawarchi,300,3.9,10000,"Biryani,Tandoor,Chinese,Indian,Desserts,Kebabs,Mughlai",Rtc X Roads,27
+4739,Sivanchetti Gardens,Bangalore,The Grill House - Steaks & Sizzlers,1100,4.2,100,"American,Steakhouse,Italian,Mexican,Continental,Mediterranean,Desserts,Grill,Salads,Pastas,Pizzas,Lebanese",Kensington Point,52
+4774,Adikmet,Hyderabad,Us Pizza,200,3.2,20,"Italian,Pizzas,Fast Food,Beverages,Desserts",O.U Road,48
+4776,Amberpet,Hyderabad,Surabhi Grand,300,4,500,"Mughlai,North Indian,Chinese,Seafood",Tilaknagar,45
+4781,Himayatnagar,Hyderabad,Bluedragon By Mandilicious,300,4.2,20,Chinese,Himayathnagar,34
+4783,Adikmet,Hyderabad,Frosty Den,200,2.2,20,"Ice Cream,Pizzas,Fast Food,Beverages,Desserts",O.U Road,43
+4810,Banjara Hills,Hyderabad,Sitara Grand - Nizami Pakwaan,300,3.6,100,"Biryani,Chinese,South Indian,North Indian,Tandoor",Road No 12,62
+4841,Karve Nagar,Pune,Cheesiano Pizza,500,3.9,100,"Italian,Pizzas,Fast Food",Karvenagar,52
+4853,Domlur,Bangalore,Venus Biryani,200,4.1,500,Biryani,3Rd Cross,49
+4956,Andheri East,Mumbai,Rj Spice,450,4.1,20,Chinese  Thai  Fast Food,Jb Nagar  Andheri East,55
+5107,Agarkar Nagar,Pune,Blue Nile,1000,4.2,1000,"Biryani,Mughlai,Tandoor,Chinese,Desserts,Ice Cream,Beverages",Bund Garden Road,31
+5119,Koregaon Park,Pune,Arthur'S Theme,800,4.3,100,"Italian,European",Lane No 6 Opp Cosmos Bank Kp,56
+5120,Mundhwa,Pune,Carnival Restaurant & Bar,1000,4.2,100,"North Indian,Chinese,Seafood,Continental",Mundhwa Road Kp,64
+5139,Shivajinagar,Pune,Smokin' Joe'S,400,4,50,"American,Fast Food",Jm Road,35
+5150,Mohammed Wadi,Pune,Chai - The Way You Like It,250,4,50,Fast Food,Salunkhe Vihar Road,73
+5157,Shivajinagar,Pune,Mainland China,850,4.4,100,"Chinese,Oriental,Thai,Pan-Asian,Seafood,Asian,Desserts",Pyramid Mall,53
+5172,Bandra Area,Mumbai,Theobroma,800,4.7,500,"Desserts,Bakery,Beverages",Bandra Area,40
+5208,Paschim Vihar,Delhi,Deli 63,400,2.9,80,"Street Food,Fast Food",Punjabi Bagh,60
+5221,Malleshwaram,Bangalore,Food Paradise,326,3.9,100,"Mughlai,North Indian,Chinese,Fast Food",Malleshwaram,53
+5247,Ashok Nagar,Bangalore,Corner House Ice Cream,250,4.7,1000,"Ice Cream,Desserts",Residency Road,31
+5251,Kalighat,Kolkata,Bachan'S Dhaba,250,4.3,5000,"North Indian,Chinese",Near Kalighat Metro Rash Behari Avenue,61
+5255,Ballygunge,Kolkata,Mainland China,850,4.5,100,"Chinese,Oriental,Thai,Pan-Asian,Seafood,Asian,Desserts",Ballygunge,64
+5285,Lakdikapul,Hyderabad,Chicha'S,200,3.8,500,"Biryani,Hyderabadi,Indian,Street Food",P & T Officers Colony,40
+5297,Deccan Gymkhana,Pune,Le Plaisir,1000,4.5,500,"Italian,Continental,European,Desserts",Prabhat Road Deccan,40
+5370,Deccan Gymkhana,Pune,Cafe Goodluck,200,4.4,100,"North Indian,Fast Food,Biryani,Cafe,Snacks,Beverages,Bakery",Shivajinagar,35
+5408,Camp,Pune,George Restaurant,600,4.3,1000,"North Indian,Chinese,Biryani,Mughlai,Parsi,Fast Food",East Street,33
+5496,Camp,Pune,Marzorin,200,4.4,1000,"Fast Food,Bakery,Beverages,Snacks,Desserts",Mg Road,33
+5504,Antop Hill,Mumbai,Monica Chinese Fast Food,350,3.9,50,Chinese,Antop Hill,57
+5538,Kothapet,Hyderabad,Kinara Grand,750,3.9,1000,"North Indian,Chinese,Biryani",Ashta Laxmi Temple,58
+5549,New Tippasandra,Bangalore,Dal Roti Sabji,150,4.5,100,North Indian,80Ft Road,54
+5573,Ashok Nagar,Bangalore,Mainland China,850,4.3,100,"Chinese,Oriental,Thai,Pan-Asian,Seafood,Asian,Desserts",Church Street,40
+5582,Vasanth Nagar,Bangalore,Shezan,600,4.3,100,"North Indian,Chinese,Continental,Mughlai",Cunnigham Road,44
+5596,Vasanth Nagar,Bangalore,Dolci Desserts,600,4.5,50,"Desserts,Pastas",Cunnigham Road,40
+5624,Deccan Gymkhana,Pune,Subway,350,4.4,100,"Fast Food,Healthy Food,Salads,Snacks,Desserts,Beverages",Fc Road,35
+5691,Bandra Area,Mumbai,Smoke House Deli,600,4.4,100,"European,Italian,American,Pastas,Salads,Juices,Desserts,Combo",Bandra Area,48
+5743,Bhawani Peth,Pune,Madinah,200,4,500,"Mughlai,North Indian,Chinese,Biryani",Poona College,34
+5802,Bidhannagar,Kolkata,First Innings - The Stadel Hotel,800,4.5,20,"North Indian,Chinese,Continental",Sector 3,69
+5862,Basheer Bagh,Hyderabad,Meghacity,500,4.4,1000,"North Indian,Chinese",Basheerbagh X Road,32
+5878,Kalyani Nagar,Pune,Salad Grills,300,4.3,100,"Healthy Food,Salads,Fast Food,Continental,North Indian,Chinese",Hermes Parai,63
+5882,Ashok Nagar,Bangalore,Oh! Calcutta,800,4.3,100,Bengali,Church Street,36
+5893,Shankarapura,Bangalore,Polar Bear,300,4.5,100,"Desserts,Fast Food",Vv Puram,38
+5908,Vasanth Nagar,Bangalore,Miller'S 46,1100,4.4,100,"Steakhouse,American,Continental",Cunnigham Road,47
+5916,Sivanchetti Gardens,Bangalore,Carnival De Goa,500,4.1,100,"Goan,Mangalorean,Kerala,South Indian,Seafood,Coastal,Continental",Kensington Point,48
+5989,Elgin,Kolkata,The Rouge,400,4.4,50,Desserts  Bakery,Near Bishop'S College  Kolkata,51
+5994,Bidhannagar,Kolkata,The Darjeeling,500,4,100,"Chinese,Nepalese,Tibetan",Near City Centre 1,73
+6075,Paschim Vihar,Delhi,London Grill Co,500,4,1000,"American,Healthy Food,Fast Food,Continental,Salads,Beverages,Desserts",Paschim Vihar,50
+6328,Mumbai,Mumbai,Mughal Fusions,300,3.9,100,"Mughlai,North Indian,Chinese,Seafood",Lbs Marg,38
+6329,Kurla West,Mumbai,Mughal Darbaar,300,3.7,500,"Mughlai,North Indian,Chinese,Seafood",Lbs Marg,40
+6332,Saki Naka,Mumbai,Naaz Hotel,750,4.1,500,"Mughlai,North Indian,Chinese",Kurla West,39
+6345,Teynampet,Chennai,Amaravathi,650,4.2,100,"Indian,Chinese,Andhra,Tandoor",Cathedral Road,53
+6358,Nandanam,Chennai,Eatalica,500,4.5,100,"Italian,American",Ra Puram,69
+6493,Rajajinagar,Bangalore,Kudla Beach,400,3.9,20,"North Indian,Chinese,Seafood,South Indian",Dr. Rajkumar Road,59
+6518,Langford Gardens,Bangalore,Rolls Kitchen,200,4.4,500,Fast Food,Shanthi Nagar,35
+6577,Punjagutta,Hyderabad,Zyqa Restaurant,200,4,500,"North Indian,Biryani,Chinese",Punjagutta,55
+6585,Himayatnagar,Hyderabad,Sahara Bakers,200,3.8,500,"Bakery,Pizzas",Chikadpally,34
+6663,Kurla West,Mumbai,Mughal Dhaba,500,4,20,"Mughlai,North Indian,Chinese",Lbs Marg Kurla West,36
+6723,Deccan Gymkhana,Pune,Spring Onion,500,4.3,100,"Chinese,Thai,Pan-Asian,Seafood",Bhandarkar Road,39
+6745,Koti,Hyderabad,Tibbs Frankie,150,4.3,100,Snacks,Hanuman Tekdi Road,29
+6775,Kalighat,Kolkata,Petuk,350,4,20,"Mughlai,Chinese,Fast Food",Near Sujata Sadan Theater Hazra,70
+6850,Malleshwaram,Bangalore,Shanthi Sagar Grand,200,4,100,"North Indian,South Indian,Fast Food",Sampige Road,57
+6851,Abids,Hyderabad,Agrawala Sweets,250,4.3,100,"Sweets,Fast Food",Jn Road,27
+6917,Powai,Mumbai,Eagle Boys Pizza,600,3.7,100,Pizzas  Fast Food,Chandivali,56
+6924,Richmond Town,Bangalore,Freshmenu,250,4.1,1000,"Chinese,Continental,Italian,Mediterranean,Thai,Lebanese,American,Asian,Beverages,Bakery,Biryani,Desserts,Mexican,North Indian,Salads,Pizzas",Aga Abdullah Street,38
+7002,Himayatnagar,Hyderabad,Angaara,250,3.9,100,"Indian,Chinese,Tandoor",Street 4,33
+7029,Santacruz East,Mumbai,Golden Wave Restaurant,1000,2.9,80,"North Indian,Chinese,Continental",Santacruz East,56
+7199,Bidhannagar,Kolkata,Afraa Deli-Sector 1,700,4.3,50,"Continental,Fast Food,Italian,Beverages",Sector 1,67
+7204,Bidhannagar,Kolkata, Conclave At Afraa,850,3.9,50,"Italian,Indian,Continental",Salt Lake City Centre,75
+7341,Ashok Nagar,Bangalore,Shiro,1400,4.4,100,"Japanese,Asian",Vittal Mallya Road,44
+7412,Khairtabad,Hyderabad,Paradise Biryani,400,3.9,100,Biryani  North Indian  Chinese,Imax Road,48
+7415,Aundh,Pune,Delhi Kitchen,300,4,100,"Tandoor,North Indian,Biryani,Beverages,Desserts",Dp Road,69
+7626,Vishnu Garden,Delhi,Sethi Restaurant,300,4,1000,North Indian,Pacific Mall,63
+7674,Beleghata,Kolkata,Mama Mia! - Italian Ice Creams,200,4.7,100,Ice Cream Cakes  Desserts  Bakery  Sweets  Beverages,Beleghata,34
+7689,Lake Town,Kolkata,Buddha Bites-Jessore Road,300,3.7,1000,"Chinese,Asian,Fast Food,Snacks,Tibetan",Jessore Road,74
+7776,Gopalapuram,Chennai,The Kati Roll Shop,250,4.3,1000,Street Food,Cathedral Road,52
+7784,Powai Area,Mumbai,Asia Kitchen By Mainland China,850,4.3,100,"Asian,Chinese,Oriental",Powai Area,55
+7826,Alwarpet,Chennai,Benjarong,1500,4.6,100,Thai,Ttk Road,68
+7828,Mylapore,Chennai,Kaaraikudi,500,3.6,100,Chettinad,Dr Radhakrishnan Salai,57
+7859,Central Markt Punjabi Bagh,Delhi,Wok In The Clouds,1500,4.5,50,"North Indian,Chinese,Thai,Continental",Punjabi Bagh,72
+7898,Golpark,Kolkata,Crossroad Crystal - Golpark,350,4.1,50,"Indian,Chinese,Bengali",Golpark,71
+7940,Andheri East,Mumbai,99 East,300,2.9,80,North Indian  Chinese  Seafood,Andheri East,57
+8009,Pashan,Pune,Saffron Multicuisine,400,4.5,20,"Mughlai,North Indian,Chinese,Seafood,Tandoor",Orange County Baner Pashan Link Road,68
+8040,South Kolkata,Kolkata,Second House,500,2.9,80,"North Indian,Chinese,Kebabs,Biryani,Mughlai",Southern Avenue,84
+8046,Gariahat,Kolkata,Santa'S Fantasea,1200,4.3,100,"Tribal,Seafood,Chinese",Ballygunge Terrace Near Anjali Jewellers Golpark,80
+8093,Punjagutta,Hyderabad,Akson Restaurant,250,4.3,1000,"North Indian,Biryani,Kerala",Panjagutta Road,53
+8139,Kotturpuram,Chennai,Ciclo Cafe,1100,4.4,1000,"Continental,Italian,Italian-American",Alwarpet,71
+8175,Paschim Vihar,Delhi,Chawla Kitchen,500,3.8,500,"Chinese,Mughlai,Indian,Snacks,Popular Brand Store,Fast Food",Punjabi Bagh,48
+8205,Habsiguda,Hyderabad,Taste Of India,600,4.2,20,"North Indian,Chinese,Continental",Habsiguda Main Road,67
+8213,Uppal,Hyderabad,Crunchy'S,150,3.8,20,"Italian,American",Uppal Ring Road,72
+8241,Indiranagar,Bangalore,Paris Panini - French Street Food,450,4.4,1000,"French,Street Food",Hal 3Rd Stage,57
+8272,Alwarpet,Chennai,Ashvita Bistro,500,4.1,20,"Continental,Asian",Alwarpet,69
+8275,Alwarpet,Chennai,Gogo Momo,350,4.2,50,Chinese,Bava Road,65
+8323,Punjabi Bagh,Delhi,Blue Water Grille,600,3.9,100,"North Indian,Chinese,Continental,Fast Food",Punjabi Bagh,68
+8469,Kasba,Kolkata,Sheerazi,350,4.3,50,"North Indian,Chinese",Kasba,68
+8501,Alwarpet,Chennai,Dhabba Express,500,4,100,"Punjabi,North Indian,Chinese",Cenotaph Road,62
+8587,Barabazar Market,Kolkata,Royal Indian Hotel,450,4.3,1000,"North Indian,Biryani,Mughlai",Rabindra Sarani,36
+8687,Manicktala,Kolkata,Urbans Cafe,350,4.2,20,"Chinese,Mexican,Continental",Near Balika Shiksha Sadan,46
+8688,Punjagutta,Hyderabad,Friends Shawarma,200,4.3,100,Lebanese,Road No 3,61
+8698,Maniktala,Kolkata,New Paul Dhaba,400,3.9,1000,"North Indian,Chinese",Maniktala,42
+8708,Esplanade,Kolkata,Lazzat,300,4.1,100,Chinese,Pearl Road Lower Range Beck Bagan,50
+8751,Kankurgachi,Kolkata,Caafe 360 Degree- Kakurgachi,500,3.9,100,"Italian,Chinese",C.I.T. Road,59
+8766,Ashok Nagar,Bangalore,Beijing Bites,450,4.2,500,Chinese,Richmond Road,33
+8856,Thousand Lights,Chennai,Ox & Tomato,500,4.4,50,"Italian,Pizzas,Pastas,Desserts,Continental,Salads",Opp To Ather Bike Showroom,55
+8894,Mylapore,Chennai,Fresh Baked Goodness,250,4.7,500,Bakery,Mylapore,63
+8912,Taltala,Kolkata,Subway,350,4.3,500,Fast Food  Healthy Food  Salads  Snacks  Desserts  Beverages,Park Street,49
+8952,Alwarpet,Chennai,Absolute Thai,1400,4.4,100,"Thai,Pan-Asian",Teynampet,71
+9014,West Marredpally,Hyderabad,Triple A Bakery,100,3.9,100,Italian  Bakery,West Marredpally Road,70
+9035,Powaiandheri East,Mumbai,Forks And Spoons (Gourmet Chinese & Thai),200,4.1,100,"Chinese,Thai,Pan-Asian,Oriental,Beverages,Snacks,Seafood,Mughlai,Tibetan,Combo,European,Turkish,Asian,British,Salads,German",Andheri East,48
+9052,Santacruz East,Mumbai,Subway,350,4.4,500,"Fast Food,Salads,Snacks,Desserts,Beverages",Central Plaza Kalina,29
+9058,Thousand Lights,Chennai,Sandy'S,700,4.3,500,"Desserts,Continental",Wallace Garden,54
+9098,Nungambakkam,Chennai,Mexicano Griller,800,3.9,20,"Mexican,Continental",Nungambakkam,64
+9104,Vasanth Nagar,Bangalore,Rolls On Wheels,300,4.3,100,Fast Food,Cunnigham Road,38
+9113,Thousand Lights,Chennai,Tuscana Pizzeria,1200,4.1,50,Italian,Nugambakkam,60
+9121,Thousand Lights,Chennai,Mamagoto,900,4.3,100,"Chinese,Asian,Pan-Asian,Thai,Oriental",Nugambakkam,55
+9127,Nungambakkam,Chennai,Eatza Pizza,600,4.1,20,"Italian,Pizzas",Nugambakkam,58
+9215,Bidhannagar,Kolkata,Veg Dhaba,100,4,100,"North Indian,Indian,Combo,Chinese,Healthy Food",Salt Lake,58
+9235,Kasba,Kolkata,Glace Patisserie,250,4.4,100,"Desserts,Bakery,Salads,Continental,Fast Food,Snacks,Pastas",Near Bondel Road Shitala Mandir,68
+9250,Gopalapuram,Chennai,Bayleaf Otg (On The Go),250,4.4,100,"Bengali,North Indian,Biryani,Street Food",Gopalapuram,55
+9292,Murad Nagar,Hyderabad,Food Zone 2,300,4,500,"Mughlai,Chinese,Tandoor",Guddimmalkapur Road,46
+9304,Redhills,Hyderabad,Rayalaseema Ruchulu,450,4,500,"South Indian,Biryani,Rayalaseema",Lakdikapul,39
+9317,Andheri East,Mumbai,Food Rush,550,4,500,"Mughlai,North Indian,Chinese",Andheri East,52
+9344,Vadapalani,Chennai,King Sandwich,200,4.3,100,Fast Food,Kodambakkam,71
+9368,Alwarpet,Chennai,Sachin Ka Dhabba,500,4.1,50,"Punjabi,North Indian,Chinese",Cenetoph Road,69
+9371,Mohammed Wadi,Pune,Big Daddy'S,250,4.1,1000,"Fast Food,American,Italian,Beverages",Nibm Road,70
+9390,Garfa,Kolkata,Maa Trinayani,200,4.2,100,"Mughlai,Indian,Chinese,Biryani",Near Lakhan Kuthir,88
+9415,Ashok Nagar,Bangalore,Smoor,300,4.3,100,"Desserts,Asian,Beverages,Bakery,Italian,Continental,Pizzas,Italian-American",1Mg Road,49
+9454,Kothrud,Pune,Cafe Eastwood,700,4.4,50,"North Indian,Continental",Chintamani Pride Near Citypride,58
+9476,Kondhwa,Pune,Jazz Pizza,300,3.9,20,"Italian,Pizzas,Fast Food",Nibm Road,72
+9502,T. Nagar,Chennai,10 Downing Street,1000,4,20,"Indian,Continental,Tandoor",T- Nagar,77
+9577,Marol Sakinaka,Mumbai,The Bar Stock Exchange,1300,2.9,80,"North Indian,Mexican,Continental,Italian",Andheri East,59
+9739,Pitampura,Delhi,Mikky Peshawari Chicken & Fish (Since 1998),250,4,100,"North Indian,Mughlai,Tandoor,Kebabs,Indian,Beverages,Biryani,Punjabi,Seafood,Afghani,Thalis,Combo,Snacks,Barbecue,Home Food,Lucknowi",Nsp,53
+9755,Pitam Pura,Delhi,Shake Square,250,3.9,50,"Ice Cream,Beverages,Fast Food,Italian,Desserts",Jd Block Ashiana Chowk,50
+9757,Pitam Pura,Delhi,Shut Up & Eat,250,4.1,100,Indian,Nsp,27
+9777,Near Rupbani Cinema,Kolkata,Koshe Kosha-Hatibagan,500,4.4,100,Bengali,Near Rupbani Cinema,43
+9781,Bhowanipore,Kolkata,Bikers Cafe,1100,4.2,100,"Italian,Desserts,Continental",Near Forum Mall,65
+9782,Bidhannagar,Kolkata,Legacy Of China,400,4.1,100,"North Indian,Chinese,Fast Food",Near Sdf Bus Stop,80
+9786,East Kolkata Township,Kolkata,Royal Jade,450,4.5,500,Chinese,Near Siemens,76
+9850,Thousand Lights,Chennai,The Marina,1500,4.4,100,Seafood,Nugambakkam,49
+9862,Santacruz East,Mumbai,Pizza Hut,300,3.8,500,"Pizzas,Fast Food",Bkc,33
+9883,Vadapalani,Chennai,Hotel Pandia'S,400,4.2,1000,"Chettinad,North Indian,Chinese,South Indian,Biryani",Vadapalani,77
+9911,Ashok Nagar,Bangalore,Fresh Pressery Cafe,1000,4.2,100,"Italian,Salads,Healthy Food,French",Cbd,33
+9923,Thousand Lights,Chennai,Bombay Brasserie,900,4.3,100,Indian,Nugambakkam,48
+9932,Mylapore,Chennai,Kaidi Kitchen,900,4.5,100,"North Indian,Chinese,Mexican,Italian,Thai,Lebanese",Bishop Wallers Avenue,63
+9979,South Kolkata,Kolkata,Chopstick - Ballygunge,400,3.7,100,Chinese,South Kolkata,64
+9984,Lake Town,Kolkata,Chennai Xpress,300,4.1,500,"South Indian,North Indian,Chinese,Beverages",Near Hdfc Bank,74
+10062,Somajiguda,Hyderabad,Kritunga Restaurant,500,4,1000,"Biryani,Andhra,Rayalaseema,South Indian,North Indian,Chinese",Somajiguda,52
+10085,Murad Nagar,Hyderabad,Bakers Street,250,4.2,500,Bakery  Continental,Gudimalkatur Road,49
+10094,Pulikeshi Nagar,Bangalore,Delicacy,400,4.2,500,"Chinese,Thai",Cox Town,56
+10113,Anna Nagar,Chennai,Coco Jaunt 1728,500,4.3,50,"Bakery,Cafe",4Th Main Road,68
+10178,Kilpauk,Chennai,Parfait Cakes N Bakes,300,3.5,20,"Bakery,Desserts",Manikeshwari Road,49
+10186,Kilpauk,Chennai,Wangs Kitchen,350,4.1,100,"Chinese,Fast Food,Asian",Kellys,46
+10208,Rohini,Delhi,Burger King,350,4.3,1000,"American,Fast Food",D Mall Twin District Center,35
+10212,Ashok Nagar,Bangalore,Hotel Tom'S Restaurant,400,4.4,100,"Mangalorean,Biryani,Seafood,Chinese,North Indian,Desserts,South Indian,Combo",Brigade Road,35
+10238,Ashok Nagar,Bangalore,Smoke House Deli,800,4.5,500,"European,Italian,American,Pastas,Salads,Juices,Desserts,Combo",Lavelle Road,39
+10275,Anna Nagar,Chennai,Kim Ling,800,4.4,500,Chinese,Teja Tower,64
+10285,Rohini,Delhi,Bombay Indianese Treat,300,2.9,80,Chinese,Prashant Vihar,61
+10298,Sector 7 Rohini,Delhi,Chalte Firte Momos & Special Foods,200,3.8,100,"Chinese,Fast Food,North Indian",Sector 7,36
+10312,Sector 8 Rohini,Delhi,Patiala Shahi Chicken Corner,400,4.1,100,"North Indian,Beverages",Sector 8,36
+10323,Prashant Vihar Rohini,Delhi,Subway,350,4.1,500,"Fast Food,Salads,Snacks,Desserts,Beverages",Fun City Mall Prashant Vihar,53
+10327,Sector 14 Rohini,Delhi,Pooran'S Ambala Wale,250,4,100,"North Indian,Chinese",Sector 14,48
+10336,Rohini,Delhi,Chit Chat,300,4.3,20,"North Indian,Chinese",Dda Market Sector 13,50
+10362,Shyam Bazar,Kolkata,Aminia- Hatibagan,500,4.3,1000,"Biryani,Mughlai,North Indian,Indian,Kebabs,Tandoor",Near Northland Nursing Home,50
+10367,Shyam Bazar,Kolkata,Pizza Hut,350,4.1,1000,Fast Food  Pizzas,Shyambazar (218),49
+10376,Jodhpur Park,Kolkata,Hanglaatherium,350,4.3,500,"Biryani,Indian",Near Sanhati Park,84
+10389,Prashant Vihar Rohini,Delhi,Bombay Bar-Be-Que,400,4.2,100,Indian,Prashant Vihar,57
+10475,Kachiguda,Hyderabad,Urban Munchies,150,2.9,80,"Ice Cream,Desserts",Adikmet Vidyanagar,42
+10485,Visharant Wadi,Pune,Rk Pure Veg,300,3.8,500,"Mughlai,North Indian,Chinese",Tingre Nagar,62
+10502,Visharant Wadi,Pune,Afc American Fried Chicken,300,4,100,Fast Food,Vishrantwadi Chowk,65
+10522,Park Street Area,Kolkata,Flurys Park Street,1000,4.5,100,Continental,Park Street,45
+10525,Ballygunge,Kolkata,The Wall,1300,4.1,100,"Chinese,Seafood,Thai,Japanese",Southern Avenue,75
+10537,Mylapore,Chennai,Grill Box,600,4.3,100,"Tandoor,North Indian,Chinese,South Indian",Rk Salai,58
+10549,Bkc,Mumbai,Brijwasi Sweets Original Since 1946,150,4.2,100,"Street Food,Desserts,Sweets",Bkc,43
+10575,Langford Gardens,Bangalore,Pizza Hut,600,3.8,100,"Pizzas,Fast Food",O'Shngness Road,36
+10601,Ballygunge,Kolkata,6 Ballygunge Place Ballygunge,1000,4.5,100,Bengali,Ballygunge,71
+10730,Banjara Hills,Hyderabad,Radisson Blu Plaza Delivery,1200,3.7,20,"Chinese,Biryani,North Indian",Road No 6,82
+10731,Near 7 Point Crossing,Kolkata,Arsalan Park Circus,700,4.3,1000,Biryani  Mughlai  North Indian  Indian  Kebabs  Tandoor  Awadhi,Near 7 Point Crossing,51
+10750,Lakdikapul,Hyderabad,Shahji Ka Dhaba,400,4.3,100,"North Indian,Chinese",Veer Nagar,44
+10806,Andheri East,Mumbai,Gurukripa,500,4.3,100,North Indian  Chinese  Seafood,Thunga Village,50
+10834,T. Nagar,Chennai,Basil With A Twist,1500,4.1,50,"Continental,European,Salads,Italian",Habibullah Road,63
+10847,Gultekdi,Pune,Kaveri,500,4.2,100,"Maharashtrian,Punjabi,Seafood",Market Yard,52
+10852,Hadapsar,Pune,Indian Tadka - Taste Punjab Da,300,3.9,500,"North Indian,Indian,Biryani,Chinese,Punjabi",S.No. 181,76
+10855,Ballygunge,Kolkata,Wise Owl Steak House,1000,4,50,"Continental,European",Purna Das Road Hindustan Park,75
+10951,Mumbai,Mumbai,Hanuman Restaurant,700,4.5,100,"Street Food,North Indian,Chinese,South Indian,Fast Food",Near Cinemax,45
+10972,Andheri East,Mumbai,Cocoon - Dragonfly Hotel,400,4.4,20,North Indian  Chinese,Chakala,59
+11043,Alwarpet,Chennai,Truly Scrumptious,350,4.5,50,"Ice Cream,Desserts,Bakery",Ra Puram,69
+11051,Kodambakkam,Chennai,Midnight Masala,300,3.8,50,"North Indian,Chinese,Biryani",Arcot Road,73
+11092,Banjara Hills,Hyderabad,Karachi Bakery Banjara,200,4.1,1000,"Bakery,Pizzas,Snacks,Chinese,Italian,American,Sweets,Desserts,Beverages",Road No 1,56
+11162,Dilsukhnagar,Hyderabad,Desi Pizza,200,3.9,20,Pizzas,P And T Colony Road,50
+11188,Bibwewadi,Pune,Khushboo,500,4.3,50,"North Indian,Chinese,Fast Food",Kondhwa,56
+11316,Anna Nagar,Chennai,Mainland China,850,4.3,500,"Chinese,Oriental,Thai,Pan-Asian,Seafood,Asian,Desserts",5Th Avenue,72
+11322,Kodambakkam,Chennai,Kairali Kerala Mess,200,4.1,500,Kerala,Voc Main Road,77
+11510,Khar West,Mumbai,Cairo Grill,400,3.8,20,Lebanese  Middle Eastern,3Rd Road,52
+11553,Habsiguda,Hyderabad,Suruchi - The Family Restaurant,500,4.2,500,"Biryani,North Indian,Chinese",Habsiguda Circle,58
+11615,Park Street Area,Kolkata,The 6 Russell Street,300,3.8,500,"Street Food,Chinese",Near Maidan Metro Station,54
+11723,Gandhi Nagar,Chennai,Swiss Hutte,1200,2.9,80,"Mediterranean,Seafood,Thai",Greams Road,50
+11834,Punjabi Bagh,Delhi,Grillz N Gravy,500,2.9,80,"Chinese,Mughlai,Indian",Club Road,69
+11858,Ballygunge,Kolkata,The Corner Courtyard,1100,3.6,20,"Italian,Continental",Sarat Bose Road Near Hazra,73
+11929,Chembur,Mumbai,Blisss,300,4.3,100,Desserts  Fast Food  Bakery,Central Avenue Road,43
+11941,Chembur,Mumbai,The Golden Wok,1200,4.2,50,"Chinese,Seafood",Sion Trombay Road,48
+11943,Chembur,Mumbai,Singh Saab,600,4.1,1000,"North Indian,Chinese,Biryani,Punjabi,Desserts,Pan-Asian,Tandoor,Combo,Beverages,Indian,Grill",Rc Marg,50
+12020,Sector 11 Rohini,Delhi,U.S. Burger Point,200,3.7,50,Italian,Near Himalya Public School Sector 7,56
+12046,Himayatnagar,Hyderabad,Subway,350,4.3,500,"Fast Food,Salads,Snacks,Desserts,Beverages",Himayath Nagar Road,33
+12054,Wanowrie,Pune,The Garage Grill,400,4.3,100,"Mughlai,Street Food",Salunkhe Vihar Road,67
+12181,Kasba Peth,Pune,Coconut Grove,1000,2.9,80,"Chettinad,North Indian,Mangalorean,Seafood",Ambedkar Bhavan Station Road,37
+12401,Ashok Nagar,Bangalore,Portland Steak House,1500,4.1,50,"American,European",Off Mg Road,45
+12434,Mumbai,Mumbai,J.J Jalebi,100,3.6,500,"Desserts,Sweets",Lbs Marg,25
+12457,Park Street Area,Kolkata,Flavours Of China,1000,4.5,100,"North Indian,Chinese",Park Street,67
+12458,Park Street Area,Kolkata,One Step Up,800,4.6,100,Continental,Park Street,61
+12468,Mylapore,Chennai,The Brew Room,700,4.7,50,Continental,Rk Salai,56
+12614,Royapettah,Chennai,Hotel Millath,350,4.4,100,"Chinese,South Indian",West Cott Road,43
+12624,Thousand Lights,Chennai,Amadora Gourmet Ice Creams,300,4.7,500,"Ice Cream,Desserts",Wallace Garden,36
+12785,Sector 10 Rohini,Delhi,Pind Balluchi,400,3.8,100,"Mughlai,North Indian",Metro Walk Mall,40
+12952,Ballygunge,Kolkata,Zeeshan Park Circus,400,4.1,500,"Desserts,Mughlai,Indian,Tandoor",Near 7 Point Crossing,63
+12953,College Square,Kolkata,Food Station College Street,500,4.5,50,Indian  Chinese  South Indian  Continental,Opp. Medical College Gate No. 1,39
+13008,Anna Nagar,Chennai,Pantry D'Or,850,4.2,100,"Italian,Continental",6Th Avenue Main Road,65
+13079,Shalimar Bagh,Delhi,Chawla'S (Shalimar Bagh),400,4.2,50,"North Indian,Chinese",Bt Market Opp. Axis Bank,64
+13103,Sector 10 Rohini,Delhi,Berco'S,600,4.1,100,"Chinese,Thai,Asian,Beverages,Desserts,Oriental,Seafood,Pan-Asian",Metro Walk Mall,39
+13179,Kothapet,Hyderabad,Kritunga Restaurant,500,4,1000,"Biryani,Andhra,Rayalaseema,South Indian,North Indian,Chinese",Dilsukhnagar Main Road,49
+13219,Koramangala,Bangalore,Bistro Oui,800,4.2,100,Continental,5Th Block,59
+13320,Nungambakkam,Chennai,Kumarakom,450,4.3,500,"North Indian,Chinese,Kerala",Parsn Complex,57
+13434,Masab Tank,Hyderabad,Cafe 555 & Aqeeq Restaurant,300,3.9,5000,"Biryani,North Indian,Chinese",Owaisi Pura,46
+13488,Alwarpet,Chennai,Frootster,150,4.1,100,"Healthy Food,Fast Food,Beverages",Cp Ramasaway,63
+13500,Gopalapuram,Chennai,Mandarin Chinese Restaurant,350,4,500,Chinese,Gopalapuram,55
+13506,Thousand Lights,Chennai,Rangi'S,500,4.3,100,Chinese,Nungumbakkam,53
+13552,Banjara Hills,Hyderabad,Shadab Go,500,4.1,1000,"North Indian,Biryani,Chinese",Road No 3,68
+13571,Ballygunge,Kolkata,Haji Saheb Park Circus,800,4.2,500,"Mughlai,North Indian,Chinese",Near Park Circus 7 Point Crossing,54
+13578,Bidhannagar,Kolkata,The Sonnet,1200,2.9,80,"Indian,Chinese,Continental",Near Isl Hospital,67
+13713,Thousand Lights,Chennai,Little Italy,1200,4.3,500,"Pizzas,Salads,Combo,Italian,Mexican,Desserts,Beverages",Wallace Garden,48
+13806,Santacruz East,Mumbai,Mr. Chows,800,4.4,100,"Chinese,Asian,Thai,Seafood",Bkc,41
+13940,Himayatnagar,Hyderabad,Eagles Pizza,150,3.7,500,Pizzas,Himayathnagar Road,32
+14002,Jayamahal,Bangalore,Five Star Chicken,300,4.3,50,Biryani,Jayamahal Extension,46
+14017,Thousand Lights,Chennai,Haagen Dazs,500,4.2,50,"Ice Cream,Desserts",Palavakkam,47
+14107,Alwarpet,Chennai,Cafe De Paris,500,2.9,80,Continental,Alwarpet,69
+14108,Alwarpet,Chennai,Sushi In A Box,1500,4.4,100,Japanese,Alwarpet,64
+14133,New Alipore,Kolkata,New Punjabi Hotel Ajanta,300,4.2,1000,"North Indian,Chinese",Opp Ajanta Cinema,86
+14160,Kondhwa,Pune,Shee Chinese,400,4.3,100,"Chinese,Asian,Thai",Kubera Park Lullanagar,59
+14333,Andheri East,Mumbai,Cafe Coffee Day,300,3.9,50,Beverages  Snacks  Desserts,Gokul Regency,61
+14725,Chetpet,Chennai,Le Wrap Factorie,200,4.4,20,"Mexican,Continental",Chetpet,57
+14894,Madhura Nagar,Hyderabad,Rk Sweets And Juices,200,4.2,50,Sweets  Desserts  Bakery  Beverages,Madhuranagar,63
+14920,Mylapore,Chennai,Pedreno'S,1000,4.1,20,"Italian,Italian-American,American",Rk Salai,60
+14941,Aminjikarai,Chennai,Cafe Toastie Express,250,4.2,20,Fast Food,Nelson Manickam Road,66
+15012,Lake Town,Kolkata,The Pind Punjabi Dhaba,500,4.3,500,"Punjabi,North Indian,Tandoor,Biryani,Combo",Near Reiance Fresh,75
+15071,Wanowrie,Pune,The Fat And The Sexy Chef,500,3.9,20,"American,Mexican",Kedari Petrol Pump,78
+15083,Wadgaon Sheri,Pune,The Bohemian Kitchen,300,4.5,100,"American,Italian,Fast Food",Opposite Water Tank Tempo Chowk Wadgaon Sheri,73
+15089,Anand Nagar,Pune,One Way Paratha,250,4.3,100,"North Indian,Fast Food",Dahanukar Colony,73
+15092,Anand Nagar,Pune,Pizza & Soup,500,2.9,80,"Italian,Pizzas,Fast Food",Anand Nagar,65
+15121,Kothrud,Pune,Sudit Su'S Chinese,350,4,100,Chinese,Dahanukar Colony,59
+15234,Paschim Vihar,Delhi,Hong Kong Express,450,4.3,100,"Chinese,Thai",Avtar Enclave Paschim Vihar,50
+15265,Beleghata,Kolkata,Bake O Cake,400,4.2,100,"Bakery,Continental,Fast Food,Desserts",Subhash Sarovar Park,49
+15268,Bhowanipore,Kolkata,The Country House,500,4.3,100,Continental  Italian  Fast Food  Beverages  Desserts,Near Forum Mall,57
+15287,Andheri East,Mumbai,Punjab Depot,249,3.9,1000,"North Indian,Tandoor,Mughlai,Biryani,Snacks,Desserts,Beverages,Combo",Marolsakinaka,48
+15367,Chembur,Mumbai,Art House - The Fern Residency,800,2.9,80,Chinese  North Indian  Continental  Pan-Asian  Italian  American  Tandoor  Fast Food  Desserts,Chembur,48
+15372,Sion,Mumbai,Central Peninsula,400,4.4,100,"North Indian,Chinese,South Indian",Sion Circle,47
+15409,Dum Dum,Kolkata,Noodle Oodle,600,4.1,100,Chinese,Opposite Diamond Plaza Mall,83
+15420,Elgin,Kolkata,Handa'S Restaurant,300,3,20,Indian  Chinese  Fast Food,Near Park Clinic,50
+15553,Poongavanapuram,Chennai,Anjappar,600,4,50,"North Indian,Chinese,Chettinad,South Indian,Seafood",Egmore,34
+15567,Egmore,Chennai,Ponnusamy Hotel,600,4.2,100,"Biryani,South Indian,Tandoor",Ethiraj Salai,38
+15617,Yerawada,Pune,Exotica,1100,4.1,20,"North Indian,Chinese,Mediterranean,Continental",Yerawada,64
+15666,Rohini,Delhi,Behrouz Biryani,500,4.2,500,"Biryani,Mughlai,Lucknowi,Hyderabadi,Kebabs,North Indian,Persian,Desserts",Sector 8,38
+15706,Park Street Area,Kolkata,Oasis,900,4.3,20,"Indian,Chinese,Continental",Near Park Hotel,61
+15794,Sion,Mumbai,Hazara Restaurant & Bar,600,4,20,Mughlai  North Indian  Chinese  Seafood,Koliwada,53
+15837,Bandra Area,Mumbai,Pizzaexpress,1000,4.2,100,"Pizzas,Pastas,Italian,European,Salads,Continental,Desserts,Beverages",Bandra Area,43
+15846,Rohini,Delhi,Faasos,200,4.1,100,"Combo,Snacks,Beverages,Desserts,Indian",Sector 8,46
+15923,Choolaimedu,Chennai,Cafe Chef'S Paradise,450,4.2,20,"Italian,Chinese,Continental,Indian",Choolaimedu,67
+15955,Sadashiv Peth,Pune,Hotel Malwani Solkadi,500,2.9,80,Maharashtrian,Off Tilak Road,44
+15963,T. Nagar,Chennai,New Andhra Meals Hotel,400,4.4,500,"Andhra,South Indian",T Nagar,69
+16022,New Nallakunta,Hyderabad,New Astoria Restaurant,450,3.8,100,"Chinese,Biryani",Rtc Cross Road,34
+16102,Taltala,Kolkata,Kasturi Restaurant,500,4.1,100,Bengali,Near New Market,59
+16107,Ballygunge,Kolkata,Kasturi Restaurant,500,4.3,500,Bengali,Near Spencers Gariahat,72
+16118,Kondhwa,Pune,Cafe Zam Zam,250,4.1,1000,"Mughlai,North Indian,Chinese,Fast Food,Biryani",Kondhwa,64
+16119,Anand Nagar,Pune,One Way Paratha,250,4.3,100,"North Indian,Fast Food",Opp Fire Brigade,73
+16141,T. Nagar,Chennai,Moonlight Takeaway & Delivery,250,4,1000,"Indian,Chinese,Tandoor",T. Nagar,66
+16275,Sangamvadi,Pune,Taste Of Hyderabad,350,3.8,100,"Biryani,Hyderabadi,North Indian,Chinese,Beverages",Dp Road,37
+16281,Shivajinagar,Pune,Fountain Family Rest O Bar,500,4.4,20,"North Indian,Chinese",Off Jm Road,37
+16296,Gopalapuram,Chennai,Sera - The Tapas Bar & Restaurant,1000,4.1,20,"Chinese,Continental,Spanish",Gopalapuram,60
+16328,Shobhabazar,Kolkata,C/O. Bangali,700,4.2,50,"Indian,Bengali,Continental",Near 4 Point Crossing,57
+16341,Tangra,Kolkata,Kim Ling,600,4.3,1000,"Chinese,Asian,Oriental,Pan-Asian,Thai,Seafood",China Town,63
+16344,Tangra,Kolkata,Beijing,1200,4.2,1000,"Chinese,Asian,Oriental,Pan-Asian,Thai,Seafood",China Town,62
+16392,Richmond Town,Bangalore,Kabab Magic,400,3.3,100,"North Indian,Chinese",Hosur Road,32
+16394,Banjara Hills,Hyderabad,Exotica,1000,4.5,500,"Indian,Chinese,North Indian,Punjabi,Tandoor,Kebabs,Biryani,Seafood,Oriental,Desserts,Sweets,Beverages,Combo",Nbt Nagar,65
+16448,Kothrud,Pune,Mirch Masala Resto Bar,800,4.5,100,"North Indian,Chinese",Near Vandevi Mandir,63
+16472,Opp Padmashree Movie Hall,Kolkata,The Silk Route,400,3.5,20,Chinese,Opp Padmashree Movie Hall,65
+16489,Sarat Bose Rd,Kolkata,My Big Fat Belly,600,4.3,100,"Italian,American",Opposite Dugout,67
+16493,Kalighat,Kolkata,Overdose,400,3.9,500,Chinese,Near Tea Trove-Desapriya Park,70
+16498,Rajajinagar,Bangalore,Chickpet Donne Biriyani House,200,3.8,100,"Indian,Chinese",3Rd Stage,52
+16506,Alwarpet,Chennai,Chap Chay - The Raintree,1200,4.4,50,"Chinese,Thai,Malaysian",Anna Salai,72
+16536,Koregaon Park,Pune,Murphies,1100,3.9,20,"European,Italian,Continental,Healthy Food,Salads,Pizzas,Beverages",Opposite Menchies,62
+16561,Purasaiwakkam,Chennai,Tibbs Frankie,100,3.8,100,Fast Food,Purasawalkam,34
+16577,Habsiguda,Hyderabad,Blr Food Kourt,250,4.1,20,"Biryani,Chinese,North Indian",Vasanth Vihar Colony,63
+16617,Purasaiwakkam,Chennai,Ganga Sweets,250,4.5,100,"North Indian,South Indian,Sweets",Purasawalkam High Road,31
+16637,Bandra Area,Mumbai,Capital Social,500,4.3,100,"Indian,Chinese,South Indian,American,Kebabs,Mughlai,Biryani,Combo",Bandra Area,46
+16640,Santacruz East,Mumbai,Behrouz Biryani,500,4.1,100,"Biryani,Mughlai,Lucknowi,Hyderabadi,Kebabs,North Indian,Persian,Desserts",Kalina,34
+16659,Ballygunge,Kolkata,Chili'S American Grill & Bar,900,4.4,100,"American,Salads,Mexican,Italian,Steakhouse",Quest Mall,76
+16696,Gariahat,Kolkata,Fresh-N-Up,450,4.4,100,Chinese,Near Golpark,66
+16770,Koti,Hyderabad,Palace Heights,1700,3.8,50,"North Indian,Chinese,Biryani,Continental,Mughlai",Palace Heights Lane,44
+16866,Rohini,Delhi,Pizza Hut,350,3.6,100,Pizzas,Aggarwal City Plaza (13),37
+16930,Ballygunge,Kolkata,Azad Hind Dhaba-Ballygunge,400,4.3,1000,North Indian,Ballygunge,62
+16974,Cit Nagar,Chennai,Karaikudi Chettinadu Restaurant,300,3.6,20,"Chettinad,Chinese,South Indian,Biryani,Tandoor",Ranganathan Street,78
+17106,Bhowanipore,Kolkata,Tgi Fridays,1000,4.2,20,"American,Mexican",Forum Shoping Mall,67
+17118,Ashok Nagar,Bangalore,Church Street Social,500,4.2,100,"Indian,Chinese,South Indian,American,Fast Food,Kebabs,Mughlai,Biryani,Combo",Church Street Road,38
+17150,Annanagar East,Chennai,Southern Chinese Restaurant,400,3.9,500,Chinese,Anna Nagar East,61
+17155,Chennai,Chennai,Olive And Basil,500,3.8,100,Chinese,Egmore,37
+17167,Indiranagar,Bangalore,Punjabi Rasoi,800,4.1,1000,North Indian,1St Stage,54
+17182,Nagole,Hyderabad,Amaravathi Family Restaurant,500,4.1,500,"Indian,Chinese,Tandoor",Nagole Road,69
+17183,Kothapet,Hyderabad,Spicy Hub,500,4,1000,"North Indian,Chinese",Kothapet - R.K Puram Road,51
+17196,Ghatkopar East,Mumbai,Oasiss Cakes & Icecreams,150,3.9,50,"Ice Cream,Desserts,Bakery",Vikrant Circle,42
+17304,Ganganagar,Bangalore,Kfc,400,3.9,1000,"American,Fast Food,Snacks",Rt Nagar Main Road,53
+17345,Huda Complex,Hyderabad,Papadams Blue,500,3.9,1000,"Biryani,Chinese,Andhra,North Indian,South Indian,Tandoor",Kothapet Cross Road,53
+17346,Huda Complex,Hyderabad,Papadams Restaurant,500,3.8,1000,"Biryani,Chinese,Andhra,North Indian,South Indian,Tandoor",Kothapet Road,54
+17376,Ashok Nagar,Bangalore,Glen'S Bakehouse,500,4.3,100,"Desserts,Bakery",Lavelle Road,34
+17395,Sadashiv Peth,Pune,Masemari - The Fishing,1000,2.9,80,"Maharashtrian,Malwani,Mangalorean,Goan,Konkan",Tilak Road,39
+17407,Indiranagar,Bangalore,Cafe Terra,299,4.3,100,Continental,Double Road First Stage,54
+17456,Anna Nagar,Chennai,Sigree,700,4.4,100,"North Indian,Mughlai,Kebabs,Mediterranean,Greek,Turkish,Lebanese",Anna Nagar East,67
+17466,Ramesh Nagar,Delhi,Nando'S,450,4.1,500,"Fast Food,Portuguese,African,Grill,Salads",North West Avenue Road,69
+17499,Santacruz East,Mumbai,Faasos,200,4.2,100,"Combo,Snacks,Beverages,Desserts,Indian",Kalina,35
+17595,Tangra,Kolkata,Khichdi Khichri,350,4.3,100,Indian,Near Bypass Dhaba,63
+17602,Taltala,Kolkata,Don Giovanni'S,1300,4.2,100,"North Indian,Chinese,Italian,Pizzas,Thai",Opp Mocambo,62
+17629,New Tippasandra,Bangalore,Chakum Chukum,400,4.3,1000,Chinese,Michael Palaya,56
+17632,New Tippasandra,Bangalore,Waffle Magic,200,4.2,100,"Beverages,Desserts,Continental",2Nd Stage,57
+17702,Santacruz East,Mumbai,Dumpling Khang,250,3.7,100,"Chinese,Tibetan,Street Food,Fast Food,Beverages",Vakola,42
+17895,Tiljala,Kolkata,Red Bamboo Shoot Restaurant,500,4.1,100,"Chinese,Thai",Near Sd Academy,63
+17901,Near City Centre 1 Petrol Pump,Kolkata,De Sovrani,800,2.9,80,"Indian,Chinese,Continental",Near City Centre 1 Petrol Pump,64
+17906,West Mambalam,Chennai,Chop 'N' Stix,500,4.3,100,Chinese,Ashok Nagar,77
+17907,Egmore,Chennai,Abid'S,700,4.5,100,"Arabian,Biryani,Chinese,Grill,Hyderabadi,Indian,North Indian,Tandoor",Spurtank Road,35
+18007,Kachiguda,Hyderabad,Cafe Coffee Day,300,4.5,20,"Beverages,Snacks,Desserts",Kachiguda Railway Station,36
+18012,Basheer Bagh,Hyderabad,Cafe Coffee Day,300,4.1,100,Beverages  Snacks  Desserts,Sri Siva Rama Towers,40
+18049,Delhi,Delhi,Giri Momos Centre & Chinese Fast Food,300,3.9,100,Chinese,Rajasthali Market,46
+18085,Narhe,Pune,Masala Mantra,500,4.3,20,"Maharashtrian,North Indian",Avinash Regency,73
+18086,Kondhwa,Pune,Pizzarella,800,4,50,"Italian,Pizzas",Near Cloud 9 Kondhwa,78
+18087,Kothrud,Pune,Golden Dragon,400,4.1,500,Chinese,Near Karve Putala,59
+18090,Shivajinagar,Pune,Bamboo House,1000,4,50,"Mughlai,North Indian,Continental",Behind Modern Cafe,39
+18107,Bentinck St.,Kolkata,Bhojohori Manna,900,4.1,100,Bengali,Beside K.C. Das,42
+18114,Shyambazar Crossing,Kolkata,Anir'S,500,4.2,500,"Indian,Chinese,Tandoor,Biryani,Fast Food,North Indian,Snacks",Shyambazar Crossing,55
+18182,Saki Naka,Mumbai,Hotel Dashmesh Punjab,500,2.9,80,North Indian  Chinese  Seafood,Ghatkopar West,38
+18333,T. Nagar,Chennai,Chocolate Fantasy,200,4.1,20,"Bakery,Desserts,American,Italian,Beverages",Thirumalai Pillai Road,64
+18359,Near Gurudas Park,Kolkata,Apu'S Kitchen Phool Bagan,300,4.2,1000,"Indian,Chinese",Near Gurudas Park,49
+18360,Elgin,Kolkata,Little Pleasures - Loudon Street,300,4.6,100,Desserts,Near La Martiniere School,48
+18464,Indiranagar,Bangalore,Fresh Bites,200,4.1,500,"North Indian,South Indian,Chinese,Fast Food,Juices,Tandoor",Indiranagar Double Road,53
+18518,Machuabazar,Kolkata,Wow! Momo,300,4.3,100,"Tibetan,Healthy Food,Asian,Chinese,Snacks,Continental,Desserts,Beverages",Girish Park,38
+18551,Nandanam,Chennai,Chamiers Cafe,1000,4.5,50,"Continental,Italian",Chamiers Road,66
+18591,New Alipore,Kolkata,The Sushi Oke,1000,3.5,50,"Japanese,Sushi,Thai",Near St Xavier'S Back Gate,83
+18614,Sinhgad Road,Pune,Maurya Multi Cuisine Family Restaurant And Bar,1000,2.9,80,"North Indian,Chinese,Mexican,Continental,Mughlai,Thai",Near Siddhi Garden,52
+18620,Mangawadi,Pune,Akshay Court,550,2.9,80,"North Indian,Chinese,Seafood,Biryani",Near Bharat Jyoti Bus Stop,60
+18693,Khar West,Mumbai,Shiv Sagar,250,4.4,500,South Indian  Continental  Beverages  Ice Cream,Khar West Sv Road,56
+18808,Shaniwar Peth,Pune,Faasos,200,4.3,100,"Combo,Snacks,Beverages,Desserts,Indian",Shaniwar Peth,30
+18828,Kondhwa,Pune,Cafe India,200,4.3,100,"Snacks,Fast Food,Street Food,Beverages",Nibm Kondhwa,70
+18837,T. Nagar,Chennai,Zuka,800,4.5,100,"Desserts,Bakery",Tnagar,64
+18846,Anna Nagar,Chennai,Parambriym,600,4.2,20,"Biryani,South Indian,Indian",Anna Nagar West,63
+18851,Bowbazar,Kolkata,Masala Wok Bar & Kitchen,600,2.9,80,"Indian,Chinese",Hind Inox,45
+18853,Lake Town,Kolkata,Aatithya,400,2.9,80,"Chinese,Bengali",Near Third Park Block B,75
+18856,Alipore,Kolkata,Red Kitchen & Lounge,1000,4,20,"North Indian,Chinese",Indside Alipore Bazaar,82
+18857,Ballygunge,Kolkata,Red Hot Chilli Pepper,1000,4.4,100,Chinese,Ballygunge Circular Road,62
+18861,East Kolkata Township,Kolkata,The Howrah Bridge,250,4.2,100,"North Indian,Chinese,Fast Food,South Indian",Opposite Acropolis Mall,77
+18879,Central Market Punjabi Bagh,Delhi,Dimsum Vs Sushi,1100,4,100,"Japanese,Pan-Asian,Chinese",Bhagwan Das Nagar,71
+18945,Ghatkopar West,Mumbai,Rk Wine And Dine,700,4.3,100,"Mughlai,North Indian,Chinese",Lbs Marg,53
+18981,Koramangala,Bangalore,Sultans Of Spice,599,4.3,50,"North Indian,Chinese,Biryani",Koramangala 5Th Block,60
+18987,Indiranagar,Bangalore,Nandhana Palace,500,4.1,500,"Biryani,Andhra,South Indian,North Indian",Amarjyothi Layout,58
+19000,Anna Nagar,Chennai,Cafe Arabica,700,4.4,500,"Italian,Continental,Arabian,Bakery",Anna Nagarr,60
+19009,Andheri East,Mumbai,Dimsum (Momo) Express,200,4.1,100,Asian,Jb Nagar,54
+19172,Koramangala,Bangalore,30 Square,300,2.9,80,Chinese,Khb Colony 5Th Block,64
+19187,Anna Nagar West Extension,Chennai,Hotel Pentagon,350,4.1,20,"Chinese,North Indian,South Indian",Thirumangalam,73
+19197,Ballygunge,Kolkata,China Whites,1000,4.1,50,"Indian,Chinese",Near Prapti,73
+19200,Park Street Area,Kolkata,Gabbar'S Bar & Kitchen,1400,2.9,80,"North Indian,Chinese",Inside Jubilee Court Building,74
+19212,Delhi,Delhi,Sfc Soya Chaap ( Shalimar Bagh),200,4.1,100,"Snacks,North Indian,Chinese,Fast Food,Indian,Kebabs",Shalimar Bagh,64
+19221,Sector 8 Rohini,Delhi,Rolls 57 By Vhc,150,2.9,80,"Italian,Snacks,Desserts,Continental,Beverages,Combo",Netaji Subhash Place,49
+19228,Paschim Vihar,Delhi,Sunil Momos.Com,300,3.3,100,Fast Food,Paschim Vihar,52
+19344,Kurla,Mumbai,Deluxe Restaurant,400,4.2,500,"Mughlai,Chinese",Kurla,33
+19450,Gariahat,Kolkata,Hungry Tide,350,4.5,1000,"Chinese,Continental,Fast Food,Snacks",Hindustan Park,71
+19515,Taltala,Kolkata,Mezban Ripon Street,300,3.9,1000,"Indian,Biryani,Chinese,Tandoor",Near Dustarkhwan,48
+19518,Bhowanipore,Kolkata,Deli Cravings,650,4.2,50,"Italian,Steakhouse,Continental",Near Chrome Hotel,66
+19521,Taltala,Kolkata,Tea Junction,150,4,50,Beverages  Snacks  Desserts,Beside New Empire Cinema Hall,42
+19532,Aundh,Pune,Sarjaa Restaurant & Bar,1100,4.3,100,"Mughlai,North Indian,Chinese,Seafood",Next To Goodwill Society Iti Road,65
+19580,Old Sangvi,Pune,Mukul'S Eastern Spice,300,4,500,"North Indian,Chinese",Old Sanghvi,63
+19643,Powai,Mumbai,Hoddogs,250,3.7,50,"American,Fast Food",Near Liberty Industrial Estate,50
+19870,Chembur,Mumbai,Malvan Tadka,250,4.2,50,"North Indian,Chinese,Malwani,Maharashtrian",Near Surana Sethia Hospital,56
+19871,Sion,Mumbai,Aparna,750,4.5,50,"Mughlai,North Indian,Chinese,South Indian",Sion Railway Station,50
+19917,Anna Nagar,Chennai,Asian Station,1400,4.5,100,Asian,Croma Building,66
+19927,Teynampet,Chennai,New Seoul,1500,4.3,20,"Japanese,Korean",406 3Rd Floor,64
+19939,Bidhannagar,Kolkata,10 Downing Street,1000,4,20,"North Indian,Chinese,Continental",Near Rdb Cinema Hall,78
+19940,Bidhannagar,Kolkata,Calcutta 64,550,4.4,100,Continental,Sector 1,60
+19942,Sreebhumi,Kolkata,Anir'S,400,4.2,100,"Mughlai,Chinese,Tandoor,Biryani,Fast Food",Cesc Office Laketown (Nd Near Jaya Cinema),72
+19952,Mumbai,Mumbai,Sindhi Society Gymkhana( Aparna Caters),400,4.1,1000,North Indian,Sindhi Society,46
+19981,Tilak Nagar,Delhi,Dunkin Donuts,250,4.3,100,"Desserts,Bakery,Beverages,Fast Food,Combo",Pacific Mall,72
+20058,Sadashiv Peth,Pune,Sp'S Biryani House,600,4.2,500,"Biryani,North Indian,Indian,Maharashtrian",Tilak Road,37
+20154,Erandwane,Pune,Nisarg,1200,4.4,100,"North Indian,Seafood,Malwani",Opposite Padale Palace,48
+20166,Thousand Lights,Chennai,Kabab Corner,350,4.4,100,"Mughlai,North Indian",Nungambakkam,45
+20194,Karve Nagar,Pune,Nation 52,300,4.3,100,"North Indian,Chinese",Cummins College Road,61
+20234,Tangra,Kolkata,Sigree Global Grill,700,3.8,20,"North Indian,Biryani",Science City Area,77
+20330,Karve Nagar,Pune,Bhujbal Bandhu-Hotel Apulki,400,4.1,100,Maharashtrian,Karve Nagar,61
+20435,Chembur,Mumbai,Krishnaa Leela,450,4.3,100,"Street Food,North Indian,Chinese,Beverages,South Indian",Chembur Naka Chembur,45
+20438,Chembur,Mumbai,Kumar Lunch Home (Bar & Restaurant),400,3.7,20,"North Indian,Chinese,Punjabi,Biryani,Tandoor",Chembur,47
+20440,Chembur,Mumbai,Kings Snack Bar,500,3.9,100,"Mughlai,North Indian,Chinese",Chembur,53
+20486,Wanowrie,Pune,Hite Bar,200,4.3,100,Fast Food,Wanowrie,64
+20501,Chembur,Mumbai,Zaika,250,3.9,1000,"Mughlai,North Indian,Chinese,Biryani",Chembur,51
+20510,Machuabazar,Kolkata,Mushroom,500,4.4,50,"Indian,Chinese,Tandoor",Oposite Hedua Park,44
+20513,Shobhabazar,Kolkata,Fusion,500,4.6,100,"Indian,Chinese,Tandoor",Near Star Theatre,44
+20514,Shobhabazar,Kolkata,Lebanese Junction - Steak House,350,4.4,500,"Lebanese,Continental",Beside Star Theatre,50
+20526,Sector 3 Rohini,Delhi,Sahni Fish Corner,700,4.2,50,Indian,Sector-8,33
+20568,Bibwewadi,Pune,Koffee Villa,200,2.9,80,"Pizzas,Italian,Pastas",Lake Town Road,72
+20570,Kondhwa,Pune,Tahari House,200,4.4,100,North Indian,Kondhwa,62
+20637,Banashankari,Bangalore,Szechuan Dragon,500,4.1,500,"Chinese,Thai",Mount Joy Road,57
+20646,Ghatkopar West,Mumbai,Shloka Dining Bar,600,4.3,50,North Indian  Malwani  Continental  South Indian  Chinese  Asian  Mughlai,Lbs Marg,54
+20653,Basavanagudi,Bangalore,Cafe Mondo,500,4.4,50,"Pizzas,Italian",Armugam Circle,52
+20732,Ballygunge,Kolkata,Cafe Drifter,650,2.9,80,Continental,Vivekananda Park Area,78
+20747,T. Nagar,Chennai,Rottu Kadai Food Court,250,4.1,50,"Chettinad,South Indian",G. N. Chetty Road,68
+20760,Rohini,Delhi,Kukki Da Dhaba,300,4.2,50,North Indian,Rohini,55
+20812,Andheri East,Mumbai,Sai Fast Food & Chinese Corner,300,4.1,100,"Chinese,Fast Food",Marol Andheri East,56
+20855,Domlur,Bangalore,Suryawanshi,600,4.1,100,"Maharashtrian,Seafood",Double Road,54
+20929,T. Nagar,Chennai,Nasi Kandar Pelita,500,4.5,100,"North Indian,South Indian,Malaysian,Indian",Pondy Bazaar,67
+20961,Mohammed Wadi,Pune,Fabio Food Court,350,4.1,500,"Indian,Chinese,North Indian,Tandoor",Kondhwa,73
+20970,Rohini,Delhi,Oven Story Pizza,600,3.6,100,"Pizzas,Italian",Sector 8,47
+21001,Shivajinagar,Pune,Pizza Hut,350,3.9,100,"Pizzas,Fast Food",Opposite F C College,36
+21032,Vadapalani,Chennai,Ksg Queen Pizza,150,3.2,50,Fast Food,Subamangalam Complex,70
